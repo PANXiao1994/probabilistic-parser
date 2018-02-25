@@ -5,7 +5,7 @@ a basic probabilistic parser for French based on the CYK algorithm and the PCFG 
 For running successfully this system, you need python 2.7.
 
 ## Quick-start
-First, enter the subfolder named "system", then open the terminal, run the command below:
+Open the terminal, run the command below:
 
 ```
 sh run_parser.sh [file] [train_num] [test_num]
